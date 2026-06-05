@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="CSV/CSV.vcxproj" Id="c3aee038-b85d-496e-8c4f-4dc99b24372b" />
-</Solution>
