@@ -1,0 +1,27 @@
+id,name,grade,major
+
+1,John Doe,85.5,Computer Science
+2,Jane Smith,90,Mathematics
+3,Ali Ahmad,72.25,Physics
+
+4 ,  Sara Khalil  ,  88.75 ,  Engineering
+
+5,Mohammad Ali,-10,Chemistry
+6,Lina Haddad,abc,Biology 
+
+7, ,77,History
+8,Karim Nader,91.2,
+
+,NoID,85,Philosophy
+9,Nour Salim, ,Literature
+10,Chris Evans,100,Acting
+11,Tony Stark,99.9,Engineering
+12, Bruce Wayne ,  85.0  ,  Business
+13,Clark Kent,95,Journalism,EXTRA_FIELD
+14,Diana Prince
+15,Peter Parker,89.5,Photography
+
+16,Strange Format,88.8
+17,Extra Spaces    ,    77.7    ,    Arts
+18,Valid Student,0,Unknown
+19,Another Valid,100,Top Major
