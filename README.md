@@ -48,15 +48,15 @@ The application also calculates and displays the average grade of the loaded stu
 
 ### CSV Input
 
-![CSV Input](<img width="1916" height="1020" alt="Screenshot 2026-10-12 172402" src="https://github.com/user-attachments/assets/e349acd9-aeec-4cfe-b7cc-58aa84c3cbe5" />)
+![CSV Input](https://github.com/user-attachments/assets/e349acd9-aeec-4cfe-b7cc-58aa84c3cbe5)
 
 ### Console Output
 
-![Console Output](<img width="1917" height="1006" alt="Screenshot 2026-10-12 172427" src="https://github.com/user-attachments/assets/73d6bd46-5e2c-49e2-b4bb-e07f3d1ebaa4" />)
+![Console Output](PASTE_SECOND_IMAGE_URL_HERE)
 
 ### Average Grade
 
-![Average Grade](<img width="1917" height="1008" alt="Screenshot 2026-10-12 172440" src="https://github.com/user-attachments/assets/38e68ce1-1efc-4fb6-98ad-c451a6f1626c" />)
+![Average Grade](PASTE_THIRD_IMAGE_URL_HERE)
 
 ## Running the Project
 
