@@ -52,11 +52,11 @@ The application also calculates and displays the average grade of the loaded stu
 
 ### Console Output
 
-![Console Output](PASTE_SECOND_IMAGE_URL_HERE)
+![Console Output](https://github.com/user-attachments/assets/bd8a5fae-b4ec-48dc-b018-682f07ad20f9)
 
 ### Average Grade
 
-![Average Grade](PASTE_THIRD_IMAGE_URL_HERE)
+![Average Grade](https://github.com/user-attachments/assets/e3f20c5a-dd9e-4f54-a70a-9c65ee3c12d7)
 
 ## Running the Project
 
